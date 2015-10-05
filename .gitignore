@@ -1,2 +1,4 @@
 .Northwind.Rproj
 .Rbuildignore
+.Rproj.user
+.Rprofile
