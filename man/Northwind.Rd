@@ -4,31 +4,10 @@
 \name{Northwind}
 \alias{Northwind}
 \alias{Northwind-package}
-\title{Northwind}
-\usage{
-data(Northwind)
-}
+\title{Northwind: a collection of database tables}
 \description{
-Northwind
-
-These data tables are freely downloadable from the Northwind sample database.
-They are useful datasets for demonstrating such things as SQL queries and
-business data analytics. Loading this dataset will place the dataframes listed
-below nto your environment.  The dataframes are based on a normalized database
-and has primary-foreign key relationships in the tables. As an example, the ID
-field in the InventoryTransactionType dataframe is a primary key which corresponds
-to a foreign key in the InventoryTransactions dataframe.
-\itemize{
-\item Customers
-\item Employees
-\item InventoryTransactions
-\item InventoryTransactionTYpes
-\item Invoices
-\item Orders
-\item PurchaseOrderDetails
-\item Shippers
-\item Suppliers
+The Northwind package is a collection of database tables from the freely downloadable
+Northwind sample database  They are useful datasets for demonstrating such things as
+SQL queries and business data analytics.
 }
-}
-\keyword{data}
 
