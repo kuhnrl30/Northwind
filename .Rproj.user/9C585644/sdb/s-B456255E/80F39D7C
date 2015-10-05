@@ -1,0 +1,18 @@
+{
+    "contents" : "#' Northwind\n#'\n#' @name Northwind\n#' @docType package\nNULL\n\n\n#' Northwind data tables\n#'\n#' These data tables are freely downloadable from the Northwind sample database.\n#' They are useful datasets for demonstrating such things as SQL queries and\n#' business data analytics. Loading this dataset will place the dataframes listed\n#' below nto your environment.  The dataframes are based on a normalized database\n#' and has primary-foreign key relationships in the tables. As an example, the ID\n#' field in the InventoryTransactionType dataframe is a primary key which corresponds\n#' to a foreign key in the InventoryTransactions dataframe.\n#' \\itemize{\n#' \\item Customers\n#' \\item Employees\n#' \\item InventoryTransactions\n#' \\item InventoryTransactionTYpes\n#' \\item Invoices\n#' \\item Orders\n#' \\item PurchaseOrderDetails\n#' \\item Shippers\n#' \\item Suppliers\n#' }\n#' @name Northwind\n#' @docType data\n#' @usage data(Northwind)\n#' @keywords data\nNULL\n",
+    "created" : 1444011902168.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "80363816",
+    "id" : "80F39D7C",
+    "lastKnownWriteTime" : 1444014049,
+    "path" : "C:/Users/Ryan/Dropbox/RPackages/Northwind/R/Northwind.R",
+    "project_path" : "R/Northwind.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

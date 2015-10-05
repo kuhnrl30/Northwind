@@ -1,0 +1,17 @@
+{
+    "contents" : "#' Touchdown\n#' \n#' @name Touchdown\n#' @docType package\n#' @import httr XML RJSONIO\n#' @importFrom plyr rbind.fill\n#' @importFrom RJSONIO fromJSON\nNULL\n\n\n\n\n#' 2014 weekly player statistics\n#' \n#' A dataset containing 6 different categories of statistics.\n#' categories are as follows: \n#' \\itemize{\n#' \\item Passing: Stats such as QB Rating, Completions, \n#' Attempts, and Touchdowns\n#' \\item Rushing: Stats such as Touchdowns, Fumbles, \n#' Yards, and Touchdowns\n#' \\item Kicking: Stats such as completes by yardage bin and \n#' completion percent\n#' \\item Returns: Stats such as number of kick returns, yards,\n#'  and the length of the longest kick.\n#' \\item Punting Status such as number of touchbacks, blocks, \n#' and average yards\n#' \\item Defense: Stats such as Sacks, interceptions, forced \n#' fumbles, and touchdowns.\n#' }\n#' @name PlayerStats\n#' @docType data\n#' @usage data(PlayerStats)\n#' @keywords data\n#' @format A list of 6 dataframes each of different categories:\nNULL\n\n#' Weekly player passing statistics (2012-2014)\n#' \n#' A dataset containing passing statistics for NFL players from 2014\n#' \\itemize{\n#' \\item Name: Player name\n#' \\item Team: Player team\n#' \\item QBRat: Quarterback rating\n#' \\item Comp: Completed pases\n#' \\item Att: Attempted pases\n#' \\item Yds: Yards from completed passes\n#' \\item Y/A: Yards after catch\n#' \\item Lng: Longest pass\n#' \\item Int: Number of interceptions\n#' \\item TD: Number of touchdowns\n#' \\item Sack: Number of times the quarteback was sacked\n#' \\item SackYds: Yard lost after sacks\n#' \\item Fum: Fumble, both lost and recovered\n#' \\item FumL: Fumbles lost to the defense\n#' \\item Week: Week of the season\n#' }\n#' @name Passing\n#' @docType data\n#' @keywords data\nNULL",
+    "created" : 1444011876804.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1612058708",
+    "id" : "B26BD97",
+    "lastKnownWriteTime" : 1440468797,
+    "path" : "C:/Users/Ryan/Dropbox/RPackages/Touchdown/R/Touchdown.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

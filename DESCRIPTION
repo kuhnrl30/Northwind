@@ -1,0 +1,10 @@
+Package: Northwind
+Type: Package
+Title: Northwind sample database tables
+Version: 0.1
+Date: 2015-10-04
+Author: Ryan Kuhn
+Maintainer: Ryan Kuhn <kuhnrl30@gmail.com>
+Description: Data tables from Microsoft's Northwind sample database.
+License: GPL
+LazyData: TRUE
