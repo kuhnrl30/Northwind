@@ -8,3 +8,4 @@ Maintainer: Ryan Kuhn <kuhnrl30@gmail.com>
 Description: Data tables from Microsoft's Northwind sample database.
 License: GPL
 LazyData: TRUE
+RoxygenNote: 5.0.0
