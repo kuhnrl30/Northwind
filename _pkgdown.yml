@@ -1,0 +1,30 @@
+template:
+  params:
+    bootswatch: journal
+reference:
+- title: Master Data Tables
+  desc: ~
+  contents:
+  - Northwind
+  - Customers
+  - Employees
+  - Products
+  - Suppliers
+  - InventoryTransactionTypes
+  - OrderDetailsStatus
+  - PurchaseOrderStatus
+
+- title: Transactions
+  desc: ~
+  contents:
+  - InventoryTransactions
+  - OrderDetails
+  - PurchaseOrderDetails
+  - Shippers
+navbar:
+  left:
+  - text: Data Tables
+    href: reference/index.html
+  right:
+    - icon: fa-github
+      href: https://github.com/kuhnrl30/Northwind
