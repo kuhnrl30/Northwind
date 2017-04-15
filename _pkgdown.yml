@@ -23,8 +23,10 @@ reference:
   - Shippers
 navbar:
   left:
-  - text: Data Tables
-    href: reference/index.html
+    - text: Data Tables
+      href: reference/index.html
   right:
+    - text: ryankuhn.net
+      href: http://ryankuhn.net
     - icon: fa-github
       href: https://github.com/kuhnrl30/Northwind

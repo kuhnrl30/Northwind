@@ -6,7 +6,9 @@ Date: 2015-10-04
 Authors@R: person("Ryan","Kuhn",email= "kuhnrl30@gmail.com", role=c("aut","cre"))
 Author: Ryan Kuhn
 Maintainer: Ryan Kuhn <kuhnrl30@gmail.com>
+URL: https://github.com/kuhnrl30/Northwind
+BugReports: https://github.com/kuhnrl30/Northwind/issues 
 Description: Data tables from Microsoft's Northwind sample database.
-License: GPL
+License: MIT + file LICENSE
 LazyData: TRUE
 RoxygenNote: 6.0.1
